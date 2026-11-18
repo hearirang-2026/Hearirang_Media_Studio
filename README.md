@@ -1,4 +1,4 @@
-### ## **Hearirang Media Studio**
+###  **Hearirang Media Studio**
 
 **가사와 음악, 이미지를 하나의 영상으로 이어가는 창작 공간**
 
