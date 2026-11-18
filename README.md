@@ -1,1 +1,5 @@
-# Hearirang_Media_Studio
+### ## **Hearirang Media Studio**
+
+**가사와 음악, 이미지를 하나의 영상으로 이어가는 창작 공간**
+
+Hearirang Media Studio는 MIT 라이선스로 공개된 **JIZURA**를 기반으로, 해리랑의 음악·영상 제작 경험을 담아 수정·확장한 Windows용 프로그램입니다. 가사와 자막, 음원·사진·영상을 활용하는 제작 작업을 더욱 편리하게 이어갈 수 있도록 구성했습니다. 
